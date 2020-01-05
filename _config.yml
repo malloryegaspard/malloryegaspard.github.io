@@ -1,21 +1,7 @@
 theme: jekyll-theme-minimal
 
 permalink: /:categories/:year/:month/:title/
+logo: /assets/IMG_8307.jpeg
 title: Mallory E. Gaspard
 description: Ph.D. Student at Cornell University
 
-author:
-  name:  Mallory Gaspard
-  email: meg375@cornell.edu
-  social:
-    email: meg375@cornell.edu
-    twitter: mallorygaspard
-    github:  malloryegaspard
-
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
