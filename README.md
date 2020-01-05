@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell University in the Center for Applied Mathematics. I recieved my Dual-B.S. in Mathematics and Applied Physics from Rensselaer Polytechnic Institute in December 2018 with concentrations in Applied Mathematics and Mathematical Physics. My primary research interests lie in mathematical modeling of natural phenomena, dynamical systems, and complex networks. 
+My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell University in the Center for Applied Mathematics. My primary research interests lie in mathematical modeling of natural phenomena, dynamical systems, and complex networks. In addition to research, I am also passionate about scientific communication and outreach. 
 
 ### Markdown
 
