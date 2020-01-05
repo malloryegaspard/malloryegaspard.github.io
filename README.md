@@ -29,9 +29,9 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
   - Worked under the mentorship of [K.V. Lakshmi](https://science.rpi.edu/chemistry/faculty/k-v-lakshmi) (RPI - Department of Chemistry and Chemical Biology) on the development of Electron Paramagnetic Resonance spectra simulations of distorted Vanadium-51 compounds.
 
 ### Publications:
-  3. Philip Charles,** Mallory Gaspard,** Santiago Alvarez, William H. Armstrong, K. V. Lakshmi* and Peter J. Bonitatibus Jr.* "Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex" (2019) Chem. Commun., Manuscript submitted December 2019. (** Authors contributed equally to this work.)
-  2. [Gaspard, Mallory, Peter Craig, and Erik Bergland. "An Integro-Differential Model of Language Competition." (2019) SIAM SIURO.](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
-  1. [Gaspard, Mallory. "Electric Current Flow Through Two-Dimensional Networks." APS March Meeting Abstracts. 2017.](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
+  - Philip Charles,** Mallory Gaspard,** Santiago Alvarez, William H. Armstrong, K. V. Lakshmi* and Peter J. Bonitatibus Jr.* "Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex" (2019) Chem. Commun., Manuscript submitted December 2019. (** Authors contributed equally to this work.)
+  - [Gaspard, Mallory, Peter Craig, and Erik Bergland. "An Integro-Differential Model of Language Competition." (2019) SIAM SIURO.](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
+  - [Gaspard, Mallory. "Electric Current Flow Through Two-Dimensional Networks." APS March Meeting Abstracts. 2017.](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
 
 
 
