@@ -9,7 +9,7 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
 - B.S. Magna Cum Laude, Rensselaer Polytechnic Institute, Mathematics and Applied Physics: Awarded December 2018
 
 ### Current Research Interests:
-#### Population Dynamics and Density Functional Fluctuation Theory
+- **Population Dynamics and Density Functional Fluctuation Theory**
 
 ### Previous Research Experience:
 
