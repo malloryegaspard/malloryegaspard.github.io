@@ -11,3 +11,11 @@ author:
     email: meg375@cornell.edu
     twitter: mallorygaspard
     github:  malloryegaspard
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
