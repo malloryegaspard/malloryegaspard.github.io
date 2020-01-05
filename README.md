@@ -39,5 +39,8 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
   - RPI CSCI 4960 Rensselaer Center for Open Source - Mentor, Fall 2018
   - RPI PHYS 2220 Quantum Physics II - Undergraduate Facillitator, Spring 2018
   
-### Outreach Activities:
-  -
+### Outreach Activities (Highlights):
+  - Participating Scientist in the [Skype a Scientist](https://www.skypeascientist.com) program
+  - Volunteer Instructor in the [Cornell Math Explorer's Club](https://math.cornell.edu/mec)
+  - RPI Association for Women in Mathematics President: Fall 2018-Spring 2019
+  - Founding Member, RPI Women in Physics: Fall 2017
