@@ -10,10 +10,19 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
 
 ### Current Research Interests:
 - **Population Dynamics and Density Functional Fluctuation Theory**
-  - Working with Itai Cohen and Tomas Arias 
+  - Working with [Itai Cohen](https://physics.cornell.edu/itai-cohen) and [Tomas Arias](https://physics.cornell.edu/tomas-arias) at Cornell University in the Department of Physics to develop a time-dependent, Density-Functional Fluctuation Theory (TDDFFT) from a statistical physics framework to model population shift and behavior. We also develop and implement simulations that utilize the TDDFFT to investigate segregation patterns embedded within census and credit data.
 
 ### Previous Research Experience:
 
+- **Mathematical Neuroscience**
+
+- **Language Competition and Shift**
+
+- **Computational Materials Physics and Gyroidal Graphene Structures**
+
+- **Computational Chemistry and Simulating EPR Spectra**
+
+### Publications:
 
 
 
