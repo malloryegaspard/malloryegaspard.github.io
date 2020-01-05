@@ -34,4 +34,10 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
   - [Gaspard, Mallory. "Electric Current Flow Through Two-Dimensional Networks." APS March Meeting Abstracts. 2017.](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
 
 
-
+### Teaching Experience:
+  - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
+  - RPI CSCI 4960 Rensselaer Center for Open Source - Mentor, Fall 2018
+  - RPI PHYS 2220 Quantum Physics II - Undergraduate Facillitator, Spring 2018
+  
+### Outreach Activities:
+  -
