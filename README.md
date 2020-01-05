@@ -1,8 +1,6 @@
-## Welcome to GitHub
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/malloryegaspard/malloryegaspard.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell University in the Center for Applied Mathematics. I recieved my Dual-B.S. in Mathematics and Applied Physics from Rensselaer Polytechnic Institute in December 2018 with concentrations in Applied Mathematics and Mathematical Physics. My primary research interests lie in mathematical modeling of natural phenomena, dynamical systems, and complex networks. 
 
 ### Markdown
 
