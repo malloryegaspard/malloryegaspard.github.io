@@ -44,3 +44,6 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
   - Volunteer Instructor in the [Cornell Math Explorer's Club](https://math.cornell.edu/mec)
   - RPI Association for Women in Mathematics President: Fall 2018-Spring 2019
   - Founding Member, RPI Women in Physics: Fall 2017
+
+### Personal:
+  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun heritage. A true Francophile at heart, I am near-fluent in French, and I always enjoy visits to France with my friends and family. I also enjoy history, art, philosophy, and psychology. A few of my hobbies include listening to a wide variety of independent music, watching Jeopardy! (and playing along with the TV!), and doing crossword puzzles. Additionally, I love spending time with my friends, going out to my favorite restaurants, and enjoying all that Ithaca has to offer!
