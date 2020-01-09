@@ -45,5 +45,11 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
   - RPI Association for Women in Mathematics President: Fall 2018-Spring 2019
   - Founding Member, RPI Women in Physics: Fall 2017
 
+### Outreach / Educational Resources:
+  - The resources linked below are availible for free download from Dropbox.
+  - **Skype a Scientist Worksheets**
+    - The worksheets linked are lessons that I have developed for my Skype a Scientist sessions. Feel free to download them and use them in your own lessons, classrooms, etc. I also appreciate feedback and suggestions as well. 
+    - [Spring Into Action! - Springs, Energy, and Vibrations in Materials](https://www.dropbox.com/s/zatxxm9t1j0huho/Skype_a_Scientist___Springs_Activity-5.pdf?dl=0)
+
 ### Personal:
   - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun heritage. A true Francophile at heart, I am near-fluent in French, and I always enjoy visits to France with my friends and family. I also enjoy history, art, philosophy, and psychology. A few of my hobbies include listening to a wide variety of music, watching Jeopardy! (and playing along with the TV!), and doing crossword puzzles. Additionally, I love spending time with my friends, going out to my favorite restaurants, and enjoying all that Ithaca has to offer!
