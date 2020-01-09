@@ -48,7 +48,7 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
 ### Outreach / Educational Resources:
   - The resources linked below are availible for free download from Dropbox.
   - **Skype a Scientist Worksheets**
-    - The worksheets linked are lessons that I have developed for my Skype a Scientist sessions. Feel free to download them and use them in your own lessons, classrooms, etc. I also appreciate feedback and suggestions as well. 
+    - The worksheets linked are lessons that I have developed for my Skype a Scientist sessions. Feel free to download them and use them in your own lessons, classrooms, etc. I also appreciate feedback and suggestions as well. Teacher solution PDFs are also availible upon email request. 
     - [Spring Into Action! - Springs, Energy, and Vibrations in Materials](https://www.dropbox.com/s/zatxxm9t1j0huho/Skype_a_Scientist___Springs_Activity-5.pdf?dl=0)
 
 ### Personal:
