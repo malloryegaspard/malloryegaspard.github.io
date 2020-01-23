@@ -50,6 +50,8 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
   - **Skype a Scientist Worksheets**
     - The worksheets linked are lessons that I have developed for my Skype a Scientist sessions. Feel free to download them and use them in your own lessons, classrooms, etc. I also appreciate feedback and suggestions as well. Teacher solution PDFs are also availible upon email request. 
     - [Spring Into Action! - Springs, Energy, and Vibrations in Materials](https://www.dropbox.com/s/f0detn5m8yil4ze/Skype_a_Scientist___Springs_Activity-6.pdf?dl=0)
+  - **Grad School / College Advice **
+    - [Graduate School (PhD) Application Timeline](https://www.dropbox.com/s/s0hro4kp2atak92/Grad%20School%20Timeline.pdf?dl=0)
 
 ### Personal:
   - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun heritage. A true Francophile at heart, I am near-fluent in French, and I always enjoy visits to France with my friends and family. I also enjoy history, art, philosophy, and psychology. A few of my hobbies include listening to a wide variety of music, watching Jeopardy! (and playing along with the TV!), and doing crossword puzzles. Additionally, I love spending time with my friends, going out to my favorite restaurants, and enjoying all that Ithaca has to offer!
