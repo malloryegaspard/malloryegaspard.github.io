@@ -10,7 +10,7 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
 
 ### Current Research Interests:
 - **Optimal Control, Differential Games, and Numerical Analysis**
-  - Working with [Alexander Vladimisrky](http://pi.math.cornell.edu/~vlad/) on various projects involving optimal control, PDEs, differential games, and numerical analysis. 
+  - Working with [Alexander Vladimisrky](http://pi.math.cornell.edu/~vlad/) on projects involving optimal control, PDEs, differential games, and numerical analysis. 
 
 ### Previous Research Experience:
 
