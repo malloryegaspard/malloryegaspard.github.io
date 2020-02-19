@@ -28,7 +28,7 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
 - **Computational Chemistry and Simulating EPR Spectra**
   - Worked under the mentorship of [K.V. Lakshmi](https://science.rpi.edu/chemistry/faculty/k-v-lakshmi) (RPI - Department of Chemistry and Chemical Biology) on the development of Electron Paramagnetic Resonance spectra simulations of distorted Vanadium-51 compounds.
   
-   **Modeling Population Dynamics Using Density Functional Fluctuation Theory**
+- **Modeling Population Dynamics Using Density Functional Fluctuation Theory**
   - Worked with [Itai Cohen](https://physics.cornell.edu/itai-cohen) and [Tomas Arias](https://physics.cornell.edu/tomas-arias) at Cornell University in the Department of Physics to develop a time-dependent, Density-Functional Fluctuation Theory (TDDFFT) from a statistical physics framework to model population shift and behavior. We also worked on the development and implementation simulations that utilize the TDDFFT to investigate segregation patterns embedded within census and credit data.
 
 ### Publications:
