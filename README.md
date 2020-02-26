@@ -29,10 +29,10 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
   - Worked under the mentorship of [K.V. Lakshmi](https://science.rpi.edu/chemistry/faculty/k-v-lakshmi) (RPI - Department of Chemistry and Chemical Biology) on the development of Electron Paramagnetic Resonance spectra simulations of distorted Vanadium-51 compounds.
   
 - **Modeling Population Dynamics Using Density Functional Fluctuation Theory**
-  - Worked with [Itai Cohen](https://physics.cornell.edu/itai-cohen) and [Tomas Arias](https://physics.cornell.edu/tomas-arias) at Cornell University in the Department of Physics to develop a time-dependent, Density-Functional Fluctuation Theory (TDDFFT) from a statistical physics framework to model population shift and behavior. We also worked on the development and implementation simulations that utilize the TDDFFT to investigate segregation patterns embedded within census and credit data.
+  - Worked with [Itai Cohen](https://physics.cornell.edu/itai-cohen) and [Tomas Arias](https://physics.cornell.edu/tomas-arias) at Cornell University in the Department of Physics to develop a time-dependent, Density-Functional Fluctuation Theory (TDDFFT) from a statistical physics framework to model population shift and behavior. Assisted with the development and implementation simulations that utilize the TDDFFT to investigate segregation patterns embedded within census and credit data.
 
 ### Publications:
-  - Philip Charles,** Mallory Gaspard,** Santiago Alvarez, William H. Armstrong, K. V. Lakshmi* and Peter J. Bonitatibus Jr.* "Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex" (2019) Chem. Commun., Manuscript submitted December 2019. (** Authors contributed equally to this work.)
+  - Philip Charles,** Mallory Gaspard,** Santiago Alvarez, William H. Armstrong, K. V. Lakshmi* and Peter J. Bonitatibus Jr.* "Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex" (2019) Chem. Commun., In peer review, February 2020. (** Authors contributed equally to this work.)
   - [Gaspard, Mallory, Peter Craig, and Erik Bergland. "An Integro-Differential Model of Language Competition." (2019) SIAM SIURO.](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
   - [Gaspard, Mallory. "Electric Current Flow Through Two-Dimensional Networks." APS March Meeting Abstracts. 2017.](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
 
