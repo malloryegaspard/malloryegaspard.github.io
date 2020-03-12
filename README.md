@@ -33,7 +33,7 @@ My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell Un
 
 ### Publications:
   - Philip Charles,** Mallory Gaspard,** Santiago Alvarez, William H. Armstrong, K. V. Lakshmi* and Peter J. Bonitatibus Jr.* "Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex" (2019) Chem. Commun., In peer review, February 2020. (** Authors contributed equally to this work.)
-  -[Chen, Yuchao, Yunus Kinkhabwala, Mallory Gaspard, Matthew Hall, Tomas Arias, and Itai Cohen. "Predicting residential segregation using statistical physics approaches." Bulletin of the American Physical Society (2020).](http://meetings.aps.org/Meeting/MAR20/Session/D20.7)
+  - [Chen, Yuchao, Yunus Kinkhabwala, Mallory Gaspard, Matthew Hall, Tomas Arias, and Itai Cohen. "Predicting residential segregation using statistical physics approaches." Bulletin of the American Physical Society (2020).](http://meetings.aps.org/Meeting/MAR20/Session/D20.7)
   - [Gaspard, Mallory, Peter Craig, and Erik Bergland. "An Integro-Differential Model of Language Competition." (2019) SIAM SIURO.](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
   - [Gaspard, Mallory. "Electric Current Flow Through Two-Dimensional Networks." APS March Meeting Abstracts. 2017.](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
 
