@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a first-year Ph.D. Student at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in mathematical modeling, optimal control, and dynamical systems, and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). In addition to research, I am also passionate about scientific communication and outreach. 
+My name is Mallory E. Gaspard, and I am a rising second-year Ph.D. Student at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in mathematical modeling, optimal control, and dynamical systems, and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). In addition to research, I am also passionate about scientific communication and outreach. 
 
 ## About Me:
 ### Education: 
