@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a rising second-year Ph.D. Student and [NDSEG Fellow](https://ndseg.sysplus.com/) at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control, and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). In addition to research, I am also passionate about scientific communication and outreach. 
+My name is Mallory E. Gaspard, and I am a second-year Ph.D. Student and [NDSEG Fellow](https://ndseg.sysplus.com/) at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control. I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). In addition to research, I am also passionate about scientific communication and outreach. 
 
 ## About Me:
 ### Education: 
