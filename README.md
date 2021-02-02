@@ -10,7 +10,7 @@ My name is Mallory E. Gaspard, and I am a second-year Ph.D. Student and [NDSEG F
 
 ### Current Research Interests:
 - **Optimal Control, Differential Games, and Numerical Analysis**
-  - Working with [Alexander Vladimirsky](http://pi.math.cornell.edu/~vlad/) on projects involving optimal control, PDEs, differential games, and numerical analysis. 
+  - Working with [Alexander Vladimirsky](http://pi.math.cornell.edu/~vlad/) on projects involving randomly terminated optimal control, PDEs, differential games, and numerical analysis. I am primarily interested in projects that involve randomly terminated optimal control, path planning under uncertainty, and differential or mean-field games involving uncertainty. 
 
 ### Previous Research Experience:
 
@@ -58,4 +58,4 @@ My name is Mallory E. Gaspard, and I am a second-year Ph.D. Student and [NDSEG F
     - [Graduate School (PhD) Application Timeline](https://www.dropbox.com/s/s0hro4kp2atak92/Grad%20School%20Timeline.pdf?dl=0)
 
 ### Personal:
-  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun heritage. A true Francophile at heart, I am near-fluent in French, and I always enjoy visits to France with my friends and family. I also enjoy history, art, philosophy, and psychology. A few of my hobbies include listening to a wide variety of music, watching Jeopardy! (and playing along with the TV!), and doing crossword puzzles. Additionally, I love spending time with my friends, going out to my favorite restaurants, and enjoying all that Ithaca has to offer!
+  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun heritage. A true Francophile at heart, I am near-fluent in French, and I always enjoy visits to France with my friends and family. A few of my hobbies include listening to a wide variety of music (from The Clash to Claude Debussy!), watching Jeopardy! (and playing along with the TV!), film photography, and doing crossword puzzles. Additionally, I love spending time with my friends, getting bubble tea, and enjoying all that Ithaca has to offer!
