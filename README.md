@@ -16,7 +16,7 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
 
 
 ### Publications:
-  - Philip Charles,** Mallory Gaspard,** Santiago Alvarez, William H. Armstrong, K. V. Lakshmi* and Peter J. Bonitatibus Jr.* "Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex" (2019) Chem. Commun., In peer review, October 2020. (** Authors contributed equally to this work.)
+  - Philip Charles,** Mallory Gaspard,** Santiago Alvarez, William H. Armstrong, K. V. Lakshmi* and Peter J. Bonitatibus Jr.* "Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex" (2019) Chem. Commun., Accepted, 2021. (** Authors contributed equally to this work.)
   - [Gaspard, Mallory, Peter Craig, and Erik Bergland. "An Integro-Differential Model of Language Competition." (2019) SIAM SIURO.](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
 
 ### Presentations 
@@ -27,6 +27,9 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
   - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
   - RPI CSCI 4960 Rensselaer Center for Open Source - Mentor, Fall 2018
   - RPI PHYS 2220 Quantum Physics II - Undergraduate Facillitator, Spring 2018
+
+### Other Projects:
+  - Project founder and mentor for the [Automatic Door Control Project](https://rpiadc.com/login), an open source hardware and software project to design a mobile application for users with disabilities to remotely open nearby automatic doors. We were fortunate enough to be recognized by Red Hat as a finalist for the [Open Source Woman of the Year Award](https://www.redhat.com/en/blog/voting-now-open-2019-women-open-source-awards) in 2019. 
   
 ### Service and Outreach Activities (Highlights):
   - Graduate Student Mentor in the [Graduate Students Mentoring Undergraduates](https://experience.cornell.edu/opportunities/graduate-students-mentoring-undergraduates-gsmu) program, August 2020 - Present
@@ -37,4 +40,4 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
   - Founding Member, RPI Women in Physics, Fall 2017
 
 ### Personal:
-  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun heritage. A true Francophile at heart, I am near-fluent in French, and I always enjoy visits to France with my friends and family. A few of my hobbies include listening to a wide variety of music (from The Clash to Claude Debussy!), watching Jeopardy! (and playing along with the TV!), film photography, and doing crossword puzzles. Additionally, I love spending time with my friends, getting bubble tea, and enjoying all that Ithaca has to offer!
+  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun descent. I am (nearly) fluent in French, and I am also a part of the [Russian Language Program at Cornell](https://russian.cornell.edu/index.cfm?LinkID=Welcome). A few of my hobbies include listening to a wide variety of music (from The Clash to Claude Debussy!), watching films, cooking, film photography, and doing crossword puzzles. Additionally, I love spending time with my friends, getting bubble tea, and enjoying all that Ithaca has to offer!
