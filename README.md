@@ -14,12 +14,13 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
 - **Optimal Control, Differential Games, and Numerical Analysis**
   - Working with [Alexander Vladimirsky](http://pi.math.cornell.edu/~vlad/) on projects involving randomly terminated optimal control, PDEs, differential games, and numerical analysis. I am primarily interested in projects that involve randomly terminated optimal control, path planning under uncertainty, and differential or mean-field games involving uncertainty. 
 
+### Preprints:
 
 ### Publications:
-  - Philip Charles,** Mallory Gaspard,** Santiago Alvarez, William H. Armstrong, K. V. Lakshmi* and Peter J. Bonitatibus Jr.* "Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex" (2019) Chem. Commun., Accepted, 2021. (** Authors contributed equally to this work.)
-  - [Gaspard, Mallory, Peter Craig, and Erik Bergland. "An Integro-Differential Model of Language Competition." (2019) SIAM SIURO.](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
+  1. [Gaspard, Mallory, Peter Craig, and Erik Bergland. "An Integro-Differential Model of Language Competition." (2019) SIAM SIURO.](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
+  2. Philip Charles,** Mallory Gaspard,** Santiago Alvarez, William H. Armstrong, K. V. Lakshmi* and Peter J. Bonitatibus Jr.* "Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex" (2019) Chem. Commun., Accepted, 2021. (** Authors contributed equally to this work.)
 
-### Presentations 
+### Presentations: 
   - [Chen, Yuchao, Yunus Kinkhabwala, Mallory Gaspard, Matthew Hall, Tomas Arias, and Itai Cohen. "Predicting residential segregation using statistical physics approaches." Bulletin of the American Physical Society (2020).](http://meetings.aps.org/Meeting/MAR20/Session/D20.7)
   - [Gaspard, Mallory. "Electric Current Flow Through Two-Dimensional Networks." APS March Meeting Abstracts. 2017.](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
 
