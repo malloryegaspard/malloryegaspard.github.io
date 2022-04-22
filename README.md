@@ -25,8 +25,10 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
       - Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex
 
 ### Presentations: 
-  - [Chen, Yuchao, Yunus Kinkhabwala, Mallory Gaspard, Matthew Hall, Tomas Arias, and Itai Cohen. "Predicting residential segregation using statistical physics approaches." Bulletin of the American Physical Society (2020).](http://meetings.aps.org/Meeting/MAR20/Session/D20.7)
-  - [Gaspard, Mallory. "Electric Current Flow Through Two-Dimensional Networks." APS March Meeting Abstracts. 2017.](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
+  - Cornell Scientific Computing and Numerics (SCAN) Seminar - April 2022
+    - ["Optimal Driving Under Traffic Signal Uncertainty"](https://cornell-scan.github.io/2022/04/18/gaspard.html) 
+  - American Physical Society (APS) March Meeting - March 2017
+    - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
 
 ### Teaching Experience:
   - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
