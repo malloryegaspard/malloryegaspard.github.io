@@ -17,6 +17,8 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
 ### Preprints:
   1. Mallory E. Gaspard and Alexander Vladimirsky
       - [Optimal Driving Under Traffic Signal Uncertainty](https://arxiv.org/abs/2201.04521) (Accepted, March 2022)
+        - [A website with additional examples and movies](https://eikonal-equation.github.io/Traffic_Light_Uncertainty/)
+        - [Source code](https://github.com/eikonal-equation/Traffic_Light_Uncertainty)
   
 ### Publications:
   1. Mallory Gaspard, Peter Craig, and Erik Bergland
