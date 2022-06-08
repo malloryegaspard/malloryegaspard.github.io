@@ -27,7 +27,9 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
       - Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex
 
 ### Presentations: 
-  - Cornell Scientific Computing and Numerics (SCAN) Seminar - April 2022
+  - NIST Applied and Computational Mathematics Division Seminar (Invited) - June 2022
+    - ["Optimal Driving Under Traffic Signal Uncertainty"](https://www.nist.gov/itl/math/acmd-seminar-optimal-driving-under-traffic-signal-uncertainty)
+  - Cornell Scientific Computing and Numerics (SCAN) Seminar (Invited) - April 2022
     - ["Optimal Driving Under Traffic Signal Uncertainty"](https://cornell-scan.github.io/2022/04/18/gaspard.html) 
   - American Physical Society (APS) March Meeting - March 2017
     - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
