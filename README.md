@@ -29,7 +29,8 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
 ### Presentations & Posters:
   - Note: Poster presentations are indicated by "*". All presentations were given in-person unless otherwise indicated.
   - 2022 DoD National NDSEG Fellows Conference (Boston, MA) - July 2022
-    - "Optimal Driving Under Traffic Signal Uncertainty"* - "Exemplary" / top winner in the Mathematics discipline.
+    - "Optimal Driving Under Traffic Signal Uncertainty"*
+      - "Exemplary" / top winner in the Mathematics discipline.
   - 18th IFAC Workshop on Control Applications of Optimization (Gif-sur-Yvette, France) - July 2022
     - ["Optimal Driving Under Traffic Signal Uncertainty"](https://ifac.papercept.net/conferences/conferences/CAO22/program/CAO22_ContentListWeb_2.html#tur1b)
   - NIST Applied and Computational Mathematics Division Seminar (Invited, Virtual) - June 2022
