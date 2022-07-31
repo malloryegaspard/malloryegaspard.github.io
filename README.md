@@ -26,7 +26,7 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
   2. Philip Charles, Mallory Gaspard, Santiago Alvarez, William H. Armstrong, K. V. Lakshmi, and Peter J. Bonitatibus Jr.
       - [Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex](https://pubs.rsc.org/en/content/articlelanding/2022/dt/d2dt02392j)
 
-### Presentations \& Posters:
+### Presentations & Posters:
   - Note: Poster presentations are indicated by "*". All presentations were given in-person unless otherwise indicated.
   - 2022 DoD National NDSEG Fellows Conference (Boston, MA) - July 2022
     - "Optimal Driving Under Traffic Signal Uncertainty"* - "Exemplary" / top winner in the Mathematics discipline.
