@@ -24,9 +24,12 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
   1. Mallory Gaspard, Peter Craig, and Erik Bergland
       -  [An Integro-Differential Model of Language Competition](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
   2. Philip Charles, Mallory Gaspard, Santiago Alvarez, William H. Armstrong, K. V. Lakshmi, and Peter J. Bonitatibus Jr.
-      - Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex
+      - [Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex](https://pubs.rsc.org/en/content/articlelanding/2022/dt/d2dt02392j)
 
-### Presentations: 
+### Presentations \& Posters:
+  - Note: Poster presentations are indicated by "*". All presentations were given in-person unless otherwise indicated.
+  - 2022 NDSEG National Convention (Boston, MA) - July 2022
+    - "Optimal Driving Under Traffic Signal Uncertainty"* - "Exemplary" / top winner in the Mathematics discipline.
   - 18th IFAC Workshop on Control Applications of Optimization (Gif-sur-Yvette, France) - July 2022
     - ["Optimal Driving Under Traffic Signal Uncertainty"](https://ifac.papercept.net/conferences/conferences/CAO22/program/CAO22_ContentListWeb_2.html#tur1b)
   - NIST Applied and Computational Mathematics Division Seminar (Invited, Virtual) - June 2022
@@ -34,7 +37,7 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
   - Cornell Scientific Computing and Numerics (SCAN) Seminar (Invited, Ithaca, NY) - April 2022
     - ["Optimal Driving Under Traffic Signal Uncertainty"](https://cornell-scan.github.io/2022/04/18/gaspard.html) 
   - American Physical Society (APS) March Meeting (New Orleans, LA) - March 2017
-    - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)
+    - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)*
 
 ### Teaching Experience:
   - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
