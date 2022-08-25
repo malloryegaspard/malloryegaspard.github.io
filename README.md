@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fellow](https://ndseg.sysplus.com/) at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control. I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). 
+My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Student and [NDSEG Fellow](https://ndseg.sysplus.com/) at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control. I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). 
 
 ## About Me:
 ### Education: 
@@ -57,6 +57,6 @@ My name is Mallory E. Gaspard, and I am a third-year Ph.D. Student and [NDSEG Fe
   - Founding Member, RPI Women in Physics, Fall 2017
 
 ### Personal:
-  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun descent. I am (nearly) fluent in French, and I am also a part of the [Russian Language Program at Cornell](https://russian.cornell.edu/index.cfm?LinkID=Welcome). I support [Scholars for Ukraine](https://www.mightycause.com/organization/Scholars-For-Ukraine) a nonprofit and volunteer organization for scholars at US universities to fundraise for various organizations around Ukraine, including (but not limited to) [Station Kharkiv](https://www.facebook.com/Station.Kharkiv) and [Dnipro Fund](https://dnipro.fund/) among others.  
+  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun descent. I am (nearly) fluent in French, and I am also a part of the [Russian Language Program at Cornell](https://russian.cornell.edu/index.cfm?LinkID=Welcome). I support [Scholars for Ukraine](https://www.mightycause.com/organization/Scholars-For-Ukraine) a nonprofit and volunteer organization for scholars at US universities to fundraise for various organizations around Ukraine, including (but not limited to) [Station Kharkiv](https://www.facebook.com/Station.Kharkiv) and [Dnipro Fund](https://dnipro.fund/) among others. I encourage all visitors to my webpage to consider supporting Ukrainian relief efforts.   
   
  A few of my hobbies include listening to a wide variety of music (from The Clash to Claude Debussy!), watching films, cooking, film photography, and doing crossword puzzles. Additionally, I love spending time with my friends, getting bubble tea, and enjoying all that Ithaca has to offer!
