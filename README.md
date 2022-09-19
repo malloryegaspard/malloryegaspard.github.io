@@ -15,16 +15,19 @@ My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Student and [NDSEG F
   - Working with [Alexander Vladimirsky](http://pi.math.cornell.edu/~vlad/) on projects involving randomly terminated optimal control, PDEs, differential games, and numerical analysis. I am primarily interested in projects that involve randomly terminated optimal control, path planning under uncertainty, and differential or mean-field games involving uncertainty. 
 
 ### Preprints:
-  1. Mallory E. Gaspard and Alexander Vladimirsky
-      - [Optimal Driving Under Traffic Signal Uncertainty](https://arxiv.org/abs/2201.04521) (Accepted, March 2022)
-        - [A website with additional examples and movies](https://eikonal-equation.github.io/Traffic_Light_Uncertainty/)
-        - [Source code](https://github.com/eikonal-equation/Traffic_Light_Uncertainty)
+  - None currently.
   
 ### Publications:
-  1. Mallory Gaspard, Peter Craig, and Erik Bergland
-      -  [An Integro-Differential Model of Language Competition](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
-  2. Philip Charles, Mallory Gaspard, Santiago Alvarez, William H. Armstrong, K. V. Lakshmi, and Peter J. Bonitatibus Jr.
+  - Mallory E. Gaspard and Alexander Vladimirsky
+      - [Optimal Driving Under Traffic Signal Uncertainty](https://www.sciencedirect.com/science/article/pii/S2405896322011661)
+        - [A website with additional examples and movies](https://eikonal-equation.github.io/Traffic_Light_Uncertainty/)
+        - [Source code](https://github.com/eikonal-equation/Traffic_Light_Uncertainty)
+        - [An earlier preprint version](https://arxiv.org/abs/2201.04521)
+  - Philip Charles, Mallory Gaspard, Santiago Alvarez, William H. Armstrong, K. V. Lakshmi, and Peter J. Bonitatibus Jr.
       - [Synthesis, Crystal Structure, EPR, and DFT Studies of an Unusually Distorted Vanadium(II) Complex](https://pubs.rsc.org/en/content/articlelanding/2022/dt/d2dt02392j)
+  - Mallory Gaspard, Peter Craig, and Erik Bergland
+      -  [An Integro-Differential Model of Language Competition](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
+  
 
 ### Presentations & Posters:
   - Note: Poster presentations are indicated by "*". All presentations were given in-person unless otherwise indicated.
