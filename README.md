@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Student and [NDSEG Fellow](https://ndseg.sysplus.com/) at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control. I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). 
+My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Candidate and [NDSEG Fellow](https://ndseg.sysplus.com/) at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control. I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). 
 
 ## About Me:
 ### Education: 
@@ -8,6 +8,7 @@ My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Student and [NDSEG F
 - Ph.D. [Cornell University](https://www.cornell.edu), Center for Applied Mathematics: August 2019-Present
   - Advised by: [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky)
   - Minor Committee members: [Lionel Levine](http://pi.math.cornell.edu/~levine/) (Mathematics) and [David Bindel](https://www.cs.cornell.edu/~bindel/) (Computer Science)
+- M.S. [Cornell University](https://www.cornell.edu), Applied Mathematics: Awarded December 2022 
 - B.S. Magna Cum Laude, [Rensselaer Polytechnic Institute](https://www.rpi.edu) (RPI), Mathematics and Applied Physics: Awarded December 2018
 
 ### Current Research Interests:
