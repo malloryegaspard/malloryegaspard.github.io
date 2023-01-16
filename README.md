@@ -61,6 +61,12 @@ My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Candidate and [NDSEG
   - Founding Member, RPI Women in Physics, Fall 2017
 
 ### Personal:
-  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun descent. I am (nearly) fluent in French, and I am also a part of the [Russian Language Program at Cornell](https://russian.cornell.edu/index.cfm?LinkID=Welcome). I support [Scholars for Ukraine](https://www.mightycause.com/organization/Scholars-For-Ukraine) a nonprofit and volunteer organization for scholars at US universities to fundraise for various organizations around Ukraine, including (but not limited to) [Station Kharkiv](https://www.facebook.com/Station.Kharkiv) and [Dnipro Fund](https://dnipro.fund/) among others. I encourage all visitors to my webpage to consider supporting Ukrainian relief efforts.   
+  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun descent. I am (nearly) fluent in French, and I am also a part of the [Russian Language Program at Cornell](https://russian.cornell.edu/index.cfm?LinkID=Welcome). I support [Scholars for Ukraine](https://www.mightycause.com/organization/Scholars-For-Ukraine) a nonprofit and volunteer organization for scholars at US universities to fundraise for various organizations around Ukraine, including (but not limited to) [Station Kharkiv](https://www.facebook.com/Station.Kharkiv) and [Dnipro Fund](https://dnipro.fund/) among others. I encourage all visitors to my webpage to consider supporting Ukrainian relief efforts. Here is a small list of organizations doing important work in Ukraine which I am passionate about:
+    - [Fight for Right](https://ffr.org.ua/en/projects/support-ukrainians-with-disabilities-during-the-war/)
+      - Provides direct assistance to Ukrainians with disabilities.
+    - [World Central Kitchen](https://wck.org/)
+      - Provides meals to millions in need in communities throughout the globe. 
+    - [Shelter Ugolyok](https://linktr.ee/Ugolyok?utm_source=linktree_profile_share&ltsid=7b2f87b6-ee29-407b-96da-8868053eafb0)
+      - Provides shelter and rehabilitation for hundreds of animals in need across Ukraine. 
   
  - A few of my hobbies include listening to a wide variety of music (from The Clash to Claude Debussy!), watching films, cooking, film photography, and doing crossword puzzles. Additionally, I love spending time with my friends, getting bubble tea, and enjoying all that Ithaca has to offer!
