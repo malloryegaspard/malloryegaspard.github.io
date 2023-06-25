@@ -8,8 +8,8 @@ My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Candidate and [NDSEG
 - Ph.D. [Cornell University](https://www.cornell.edu), Center for Applied Mathematics: August 2019-Present
   - Advised by: [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky)
   - Minor Committee members: [Lionel Levine](http://pi.math.cornell.edu/~levine/) (Mathematics) and [David Bindel](https://www.cs.cornell.edu/~bindel/) (Computer Science)
-- M.S. [Cornell University](https://www.cornell.edu), Applied Mathematics: Awarded December 2022 
-- B.S. Magna Cum Laude, [Rensselaer Polytechnic Institute](https://www.rpi.edu) (RPI), Mathematics and Applied Physics: Awarded December 2018
+- M.S. [Cornell University](https://www.cornell.edu), Applied Mathematics: Conferred May 2023 
+- B.S. Magna Cum Laude, [Rensselaer Polytechnic Institute](https://www.rpi.edu) (RPI), Mathematics and Applied Physics: Conferred December 2018
 
 ### Current Research Interests:
 - **Optimal Control, Differential Games, and Numerical Analysis**
@@ -39,7 +39,7 @@ My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Candidate and [NDSEG
     - ["Optimal Driving Under Traffic Signal Uncertainty"](https://ifac.papercept.net/conferences/conferences/CAO22/program/CAO22_ContentListWeb_2.html#tur1b)
   - NIST Applied and Computational Mathematics Division Seminar (Invited, Virtual) - June 2022
     - ["Optimal Driving Under Traffic Signal Uncertainty"](https://www.nist.gov/itl/math/acmd-seminar-optimal-driving-under-traffic-signal-uncertainty)
-  - Cornell Scientific Computing and Numerics (SCAN) Seminar (Invited, Ithaca, NY) - April 2022
+  - Cornell Scientific Computing and Numerics (SCAN) Seminar (Ithaca, NY) - April 2022
     - ["Optimal Driving Under Traffic Signal Uncertainty"](https://cornell-scan.github.io/2022/04/18/gaspard.html) 
   - American Physical Society (APS) March Meeting (New Orleans, LA) - March 2017
     - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)*
@@ -53,7 +53,8 @@ My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Candidate and [NDSEG
   - Project founder and mentor for the [Automatic Door Control Project](https://rpiadc.com/login), an open source hardware and software project to design a mobile application for users with disabilities to remotely open nearby automatic doors. We were fortunate enough to be recognized by Red Hat as a finalist for the [Open Source Woman of the Year Award](https://www.redhat.com/en/blog/voting-now-open-2019-women-open-source-awards) in 2019. 
   
 ### Service and Outreach Activities (Highlights):
-  - Graduate Student Mentor in the [Graduate Students Mentoring Undergraduates](https://experience.cornell.edu/opportunities/graduate-students-mentoring-undergraduates-gsmu) program, August 2020 - Present
+  - SIAM Cornell Student Chapter President - August 2022 - Present
+  - Graduate Student Mentor in the [Graduate Students Mentoring Undergraduates](https://experience.cornell.edu/opportunities/graduate-students-mentoring-undergraduates-gsmu) program, August 2020 - August 2022
   - Judge for the [Cornell Undergraduate Research Board Spring Symposium](https://www.cornellcurb.com/spring-symposium) (Invited), May 2021 
   - Participating Scientist in the [Skype a Scientist](https://www.skypeascientist.com) program, 2019-2020 
   - Volunteer Instructor in the [Cornell Math Explorer's Club](https://math.cornell.edu/mec), Fall 2020
