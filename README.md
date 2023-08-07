@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Candidate and [NDSEG Fellow](https://ndseg.sysplus.com/) at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control. I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). 
+My name is Mallory E. Gaspard, and I am a fifth-year Ph.D. Candidate at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control. I was an [NDSEG Fellow](https://ndseg.sysplus.com/) (Fellowship tenure: 2020 - 2023), and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). 
 
 ## About Me:
 ### Education: 
@@ -32,6 +32,10 @@ My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Candidate and [NDSEG
 
 ### Presentations & Posters:
   - Note: Poster presentations are indicated by "*". All presentations were given in-person unless otherwise indicated.
+  - 2023 SIAM Conference on Control and its Applications (Philadelphia, PA) - July 2023
+    - "Strategic/Tactical AV Routing Under Lane-Change Uncertainty"
+  - Cornell Scientific Computing and Numerics (SCAN) Seminar (Ithaca, NY) - March 2023
+    - ["Monotone Causality in Opportunistically Stochastic Shortest Path Problems"](https://cornell-scan.github.io/2023/03/20/gaspard.html) 
   - 2022 DoD National NDSEG Fellows Conference (Boston, MA) - July 2022
     - "Optimal Driving Under Traffic Signal Uncertainty"*
       - "Exemplary" / top winner in the Mathematics discipline.
@@ -45,6 +49,7 @@ My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Candidate and [NDSEG
     - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)*
 
 ### Teaching Experience:
+  - Cornell MATH 4220 / MATH 5220 Applied Complex Analysis - Graduate Teaching Assistant, Fall 2023 (Current)
   - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
   - RPI CSCI 4960 Rensselaer Center for Open Source - Mentor, Fall 2018
   - RPI PHYS 2220 Quantum Physics II - Undergraduate Facillitator, Spring 2018
@@ -62,7 +67,7 @@ My name is Mallory E. Gaspard, and I am a fourth-year Ph.D. Candidate and [NDSEG
   - Founding Member, RPI Women in Physics, Fall 2017
 
 ### Personal:
-  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country, and I am of French-Cajun descent. I am (nearly) fluent in French, and I am also a part of the [Russian Language Program at Cornell](https://russian.cornell.edu/index.cfm?LinkID=Welcome). I support [Scholars for Ukraine](https://www.mightycause.com/organization/Scholars-For-Ukraine) a nonprofit and volunteer organization for scholars at US universities to fundraise for various organizations around Ukraine, including (but not limited to) [Station Kharkiv](https://www.facebook.com/Station.Kharkiv) and [Dnipro Fund](https://dnipro.fund/) among others. I encourage all visitors to my webpage to consider supporting Ukrainian relief efforts. Here is a small list of organizations doing important work in Ukraine which I am passionate about:
+  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country. I am of French-Cajun descent and heritage. I am (nearly) fluent in French, and I am also a part of the [Russian Language Program at Cornell](https://russian.cornell.edu/index.cfm?LinkID=Welcome). I support [Scholars for Ukraine](https://www.mightycause.com/organization/Scholars-For-Ukraine) a nonprofit and volunteer organization for scholars at US universities to fundraise for various organizations around Ukraine, including (but not limited to) [Station Kharkiv](https://www.facebook.com/Station.Kharkiv) and [Dnipro Fund](https://dnipro.fund/) among others. I encourage all visitors to my webpage to consider supporting Ukrainian relief efforts. Here is a small list of organizations doing important work in Ukraine which I am passionate about:
     - [Fight for Right](https://ffr.org.ua/en/projects/support-ukrainians-with-disabilities-during-the-war/)
       - Provides direct assistance to Ukrainians with disabilities.
     - [World Central Kitchen](https://wck.org/)
