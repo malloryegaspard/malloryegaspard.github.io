@@ -32,6 +32,8 @@ My name is Mallory E. Gaspard, and I am a fifth-year Ph.D. Candidate at Cornell 
 
 ### Presentations & Posters:
   - Note: Poster presentations are indicated by "*". All presentations were given in-person unless otherwise indicated.
+  - 10th International Congress on Industrial and Applied Mathematics (ICIAM, Tokyo, Japan) - August 2023
+    -   ["Opportunistically Stochastic Shortest Path Problems: From PDEs to AV-Routing"*](https://iciam2023.org/accepted_ps#11323_Opportunistically_Stochastic_Shortest_Path_Problems_From_PDEs_to_AV-Routing)
   - 2023 SIAM Conference on Control and its Applications (Philadelphia, PA) - July 2023
     - "Strategic/Tactical AV Routing Under Lane-Change Uncertainty"
   - Cornell Scientific Computing and Numerics (SCAN) Seminar (Ithaca, NY) - March 2023
