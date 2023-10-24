@@ -16,7 +16,8 @@ My name is Mallory E. Gaspard, and I am a fifth-year Ph.D. Candidate at Cornell 
   - Working with [Alexander Vladimirsky](http://pi.math.cornell.edu/~vlad/) on projects involving randomly terminated optimal control, PDEs, differential games, and numerical analysis. I am primarily interested in projects that involve randomly terminated optimal control, path planning under uncertainty, and differential or mean-field games involving uncertainty. 
 
 ### Preprints:
-  - None currently.
+  - Mallory E. Gaspard and Alexander Vladimirsky
+      - [Monotone Causality in Opportunistically Stochastic Shortest Path Problems](https://arxiv.org/abs/2310.14121)
   
 ### Publications:
   - Mallory E. Gaspard and Alexander Vladimirsky
