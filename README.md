@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a fifth-year Ph.D. Candidate at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control. I was an [NDSEG Fellow](https://ndseg.sysplus.com/) (Fellowship tenure: 2020 - 2023), and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). 
+My name is Mallory E. Gaspard, and I am a rising sixth-year Ph.D. Candidate at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in numerical analysis, mathematical modeling, and optimal control. I was an [NDSEG Fellow](https://ndseg.sysplus.com/) (Fellowship tenure: 2020 - 2023), and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). I will be on the academic job market in Fall of 2024 for positions beginning in Fall 2025. 
 
 ## About Me:
 ### Education: 
@@ -30,6 +30,8 @@ My name is Mallory E. Gaspard, and I am a fifth-year Ph.D. Candidate at Cornell 
   - Mallory Gaspard, Peter Craig, and Erik Bergland
       -  [An Integro-Differential Model of Language Competition](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
   
+### Filed Patent Applications:
+  - Alexander Vladimirsky and Mallory E. Gaspard, "10471-02-US: LANE-CHANGE TIMING DETERMINATIONS IN AUTONOMOUS VEHICLE ROUTING". (In prosecution, 2024).  
 
 ### Presentations & Posters:
   - Note: Poster presentations are indicated by "*". All presentations were given in-person unless otherwise indicated.
@@ -52,10 +54,13 @@ My name is Mallory E. Gaspard, and I am a fifth-year Ph.D. Candidate at Cornell 
     - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)*
 
 ### Teaching Experience:
-  - Cornell MATH 4220 / MATH 5220 Applied Complex Analysis - Graduate Teaching Assistant, Fall 2023 (Current)
+  - Cornell MATH 4220 / MATH 5220 Applied Complex Analysis - Graduate Teaching Assistant, Fall 2023
   - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
   - RPI CSCI 4960 Rensselaer Center for Open Source - Mentor, Fall 2018
   - RPI PHYS 2220 Quantum Physics II - Undergraduate Facillitator, Spring 2018
+
+### Industry Experience:
+  - The Aerospace Corporation (El Segundo, CA) - Modeling and Simulation Graduate Intern, May 2024 - August 2024
 
 ### Other Projects:
   - Project founder and mentor for the [Automatic Door Control Project](https://rpiadc.com/login), an open source hardware and software project to design a mobile application for users with disabilities to remotely open nearby automatic doors. We were fortunate enough to be recognized by Red Hat as a finalist for the [Open Source Woman of the Year Award](https://www.redhat.com/en/blog/voting-now-open-2019-women-open-source-awards) in 2019. 
@@ -70,7 +75,7 @@ My name is Mallory E. Gaspard, and I am a fifth-year Ph.D. Candidate at Cornell 
   - Founding Member, RPI Women in Physics, Fall 2017
 
 ### Personal:
-  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country. I am of French-Cajun descent and heritage. I am (nearly) fluent in French, and I am also a part of the [Russian Language Program at Cornell](https://russian.cornell.edu/index.cfm?LinkID=Welcome). In 2023, I co-founded [Litera: Ukrainian Educational Outreach at Cornell](https://litera4ukraine.wixsite.com/literaoutreach) to provide free virtual speaking clubs for English language learners in Ukraine, and I currently serve as the organization's president. Here is a small list of additional organizations doing important work in Ukraine which I am passionate about:
+  - I was born and raised in [Lafayette, LA](https://www.lafayettetravel.com) in the heart of Cajun Country. I am of French-Cajun descent and heritage. I am (nearly) fluent in French, and I have spent three years in the [Russian Language Program at Cornell](https://russian.cornell.edu/index.cfm?LinkID=Welcome). In 2023, I co-founded [Litera: Ukrainian Educational Outreach at Cornell](https://www.literaoutreach.com/) to provide free virtual speaking clubs for English language learners in Ukraine, and I currently serve as the organization's president. Here is a small list of additional organizations doing important work in Ukraine which I am passionate about:
     - [Fight for Right](https://ffr.org.ua/en/projects/support-ukrainians-with-disabilities-during-the-war/)
       - Provides direct assistance to Ukrainians with disabilities.
     - [World Central Kitchen](https://wck.org/)
@@ -78,4 +83,4 @@ My name is Mallory E. Gaspard, and I am a fifth-year Ph.D. Candidate at Cornell 
     - [Shelter Ugolyok](https://linktr.ee/Ugolyok?utm_source=linktree_profile_share&ltsid=7b2f87b6-ee29-407b-96da-8868053eafb0)
       - Provides shelter and rehabilitation for hundreds of animals in need across Ukraine. 
   
- - A few of my hobbies include listening to a wide variety of music (my top-streamed artists include Washed Out, Beach House, and Claude Debussy), traveling, watching films, cooking, film photography, painting, tending to houseplants, and doing crossword puzzles. Additionally, I love spending time with my friends and enjoying all that Ithaca has to offer!
+ - A few of my hobbies include listening to a wide variety of music (my top-streamed artists include Washed Out, Vampire Weekend, Beach House, and Claude Debussy), traveling, watching films, cooking, film photography, painting, tending to houseplants, and doing crossword puzzles. Additionally, I love spending time with my friends and enjoying all that Ithaca has to offer!
