@@ -54,7 +54,7 @@ My name is Mallory E. Gaspard, and I am a rising sixth-year Ph.D. Candidate at C
     - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)*
 
 ### Teaching Experience:
-  - Cornell MATH 4220 / MATH 5220 Applied Complex Analysis - Graduate Teaching Assistant, Fall 2023
+  - Cornell MATH 4220 / MATH 5220 Applied Complex Analysis - Graduate Teaching Assistant, Fall 2023, Fall 2024 (Current)
   - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
   - RPI CSCI 4960 Rensselaer Center for Open Source - Mentor, Fall 2018
   - RPI PHYS 2220 Quantum Physics II - Undergraduate Facillitator, Spring 2018
