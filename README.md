@@ -31,7 +31,7 @@ My name is Mallory E. Gaspard, and I am a rising sixth-year Ph.D. Candidate at C
       -  [An Integro-Differential Model of Language Competition](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
   
 ### Filed Patent Applications:
-  - Alexander Vladimirsky and Mallory E. Gaspard, "10471-02-US: LANE-CHANGE TIMING DETERMINATIONS IN AUTONOMOUS VEHICLE ROUTING". (In prosecution, 2024).  
+  - [Alexander Vladimirsky and Mallory E. Gaspard, "10471-02-US: LANE-CHANGE TIMING DETERMINATIONS IN AUTONOMOUS VEHICLE ROUTING"](https://patents.google.com/patent/WO2024108123A1/en?q=(mallory+gaspard)&oq=mallory+gaspard). (In prosecution, 2024).  
 
 ### Presentations & Posters:
   - Note: Poster presentations are indicated by "*". All presentations were given in-person unless otherwise indicated.
@@ -60,7 +60,7 @@ My name is Mallory E. Gaspard, and I am a rising sixth-year Ph.D. Candidate at C
   - RPI PHYS 2220 Quantum Physics II - Undergraduate Facillitator, Spring 2018
 
 ### Industry Experience:
-  - The Aerospace Corporation (El Segundo, CA) - Modeling and Simulation Graduate Intern, May 2024 - August 2024
+  - [The Aerospace Corporation](https://aerospace.org/) (El Segundo, CA) - MTS Graduate Intern V, Modeling and Simulation Computing Division, May 2024 - Present
 
 ### Other Projects:
   - Project founder and mentor for the [Automatic Door Control Project](https://rpiadc.com/login), an open source hardware and software project to design a mobile application for users with disabilities to remotely open nearby automatic doors. We were fortunate enough to be recognized by Red Hat as a finalist for the [Open Source Woman of the Year Award](https://www.redhat.com/en/blog/voting-now-open-2019-women-open-source-awards) in 2019. 
