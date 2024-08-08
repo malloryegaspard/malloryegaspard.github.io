@@ -83,4 +83,4 @@ My name is Mallory E. Gaspard, and I am a rising sixth-year Ph.D. Candidate at C
     - [Shelter Ugolyok](https://linktr.ee/Ugolyok?utm_source=linktree_profile_share&ltsid=7b2f87b6-ee29-407b-96da-8868053eafb0)
       - Provides shelter and rehabilitation for hundreds of animals in need across Ukraine. 
   
- - A few of my hobbies include listening to a wide variety of music (my top-streamed artists include Washed Out, Vampire Weekend, Beach House, and Claude Debussy), traveling, watching films, cooking, film photography, painting, tending to houseplants, and doing crossword puzzles. Additionally, I love spending time with my friends and enjoying all that Ithaca has to offer!
+ - A few of my hobbies & interests include listening to a wide variety of music (my top-streamed artists include Washed Out, Vampire Weekend, Beach House, and Claude Debussy), traveling, watching films, surfing, cooking, film photography, painting, tending to houseplants. Additionally, I love spending time with my friends and enjoying all that Ithaca has to offer!
