@@ -61,6 +61,7 @@ My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell 
 
 ### Industry Experience:
   - [The Aerospace Corporation](https://aerospace.org/) (El Segundo, CA) - MTS Graduate Intern V, Modeling and Simulation Computing Division, May 2024 - Present
+    - Responsible for large scale, multi-objective evolutionary algorithm development and implementation and Pareto front recovery.  
 
 ### Other Projects:
   - Project founder and mentor for the [Automatic Door Control Project](https://rpiadc.com/login), an open source hardware and software project to design a mobile application for users with disabilities to remotely open nearby automatic doors. We were fortunate enough to be recognized by Red Hat as a finalist for the [Open Source Woman of the Year Award](https://www.redhat.com/en/blog/voting-now-open-2019-women-open-source-awards) in 2019. 
