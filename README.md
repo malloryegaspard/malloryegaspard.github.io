@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in optimal control, mathematical modeling, and differential games. I was an [NDSEG Fellow](https://ndseg.sysplus.com/) (Fellowship tenure: 2020 - 2023), and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky).
+My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in optimal control, mathematical modeling, and differential games. I was an [NDSEG Fellow](https://ndseg.sysplus.com/) (Fellowship tenure: 2020 - 2023), and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). **I am on the academic job market for positions beginning in Summer / Fall 2025.**
 
 ## About Me:
 ### Education: 
