@@ -33,7 +33,7 @@ My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell 
       -  [An Integro-Differential Model of Language Competition](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01736.pdf?ver=2019-04-15-152442-683)
   
 ### Filed Patent Applications:
-  - [Alexander Vladimirsky and Mallory E. Gaspard, "10471-02-US: LANE-CHANGE TIMING DETERMINATIONS IN AUTONOMOUS VEHICLE ROUTING"](https://patents.google.com/patent/WO2024108123A1/en?q=(mallory+gaspard)&oq=mallory+gaspard). (In prosecution, 2024).  
+  - [Alexander Vladimirsky and Mallory E. Gaspard, "10471-02-US: LANE-CHANGE TIMING DETERMINATIONS IN AUTONOMOUS VEHICLE ROUTING"](https://patents.google.com/patent/WO2024108123A1/en?q=(mallory+gaspard)&oq=mallory+gaspard).   
 
 ### Presentations & Posters:
   - Note: Poster presentations are indicated by "*". All presentations were given in-person unless otherwise indicated.
