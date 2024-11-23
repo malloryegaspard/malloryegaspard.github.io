@@ -17,7 +17,8 @@ My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell 
 
 ### Preprints:
   - Mallory E. Gaspard
-      - [Optimality of Motion Camouflage Under Escape Uncertainty](https://arxiv.org/abs/2409.09890) 
+      - [Optimality of Motion Camouflage Under Escape Uncertainty](https://arxiv.org/abs/2409.09890)
+        - (Accepted for publication in IEEE Control Systems Letters, November 2024)   
   - Mallory E. Gaspard and Alexander Vladimirsky
       - [Monotone Causality in Opportunistically Stochastic Shortest Path Problems](https://arxiv.org/abs/2310.14121)
   
