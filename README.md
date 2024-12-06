@@ -15,16 +15,15 @@ My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell 
 - **Optimal Control, Differential Games, and Numerical Analysis**
   - Working with [Alexander Vladimirsky](http://pi.math.cornell.edu/~vlad/) on projects involving randomly terminated optimal control, PDEs, differential games, and numerical analysis. I am primarily interested in projects that involve randomly terminated optimal control, path planning under uncertainty, and differential or mean-field games involving uncertainty. 
 
-### Preprints:
-  - Mallory E. Gaspard
-      - Optimality of Motion Camouflage Under Escape Uncertainty
-        - [arXiv preprint](https://arxiv.org/abs/2409.09890)
-        - [Early access on IEEE Xplore](https://ieeexplore.ieee.org/document/10769410)
-        - (Accepted for publication in IEEE Control Systems Letters, November 2024)   
+### Preprints:  
   - Mallory E. Gaspard and Alexander Vladimirsky
       - [Monotone Causality in Opportunistically Stochastic Shortest Path Problems](https://arxiv.org/abs/2310.14121)
   
 ### Publications:
+  - Mallory E. Gaspard
+      - Optimality of Motion Camouflage Under Escape Uncertainty
+        - [arXiv](https://arxiv.org/abs/2409.09890)
+        - [IEEE Xplore](https://ieeexplore.ieee.org/document/10769410?source=authoralert)
   - Mallory E. Gaspard and Alexander Vladimirsky
       - [Optimal Driving Under Traffic Signal Uncertainty](https://www.sciencedirect.com/science/article/pii/S2405896322011661)
         - [A website with additional examples and movies](https://eikonal-equation.github.io/Traffic_Light_Uncertainty/)
