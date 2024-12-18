@@ -58,6 +58,7 @@ My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell 
     - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)*
 
 ### Teaching Experience:
+  - Cornell MATH 1106 Modeling with Calculus for the Life Sciences - Graduate Teaching Assistant, Spring 2025 (Upcoming) 
   - Cornell MATH 4220 / MATH 5220 Applied Complex Analysis - Graduate Teaching Assistant, Fall 2023, Fall 2024 (Current)
   - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
   - RPI CSCI 4960 Rensselaer Center for Open Source - Mentor, Fall 2018
