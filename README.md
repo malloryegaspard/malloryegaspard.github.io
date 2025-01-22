@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in optimal control, mathematical modeling, and differential games. I was an [NDSEG Fellow](https://ndseg.sysplus.com/) (Fellowship tenure: 2020 - 2023), and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). **I am on the academic job market for positions beginning in Summer / Fall 2025.**
+My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in optimal control, mathematical modeling, and differential games. I was an [NDSEG Fellow](https://ndseg.sysplus.com/) (Fellowship tenure: 2020 - 2023), and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). **I am an incoming postdoc in the [Leonard Lab](https://naomi.princeton.edu/) at Princeton University (beginning July 2025).**
 
 ## About Me:
 ### Education: 
@@ -58,14 +58,14 @@ My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell 
     - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)*
 
 ### Teaching Experience:
-  - Cornell MATH 1106 Modeling with Calculus for the Life Sciences - Graduate Teaching Assistant, Spring 2025 (Upcoming) 
-  - Cornell MATH 4220 / MATH 5220 Applied Complex Analysis - Graduate Teaching Assistant, Fall 2023, Fall 2024 (Current)
+  - Cornell MATH 1106 Modeling with Calculus for the Life Sciences - Graduate Teaching Assistant, Spring 2025 (Current) 
+  - Cornell MATH 4220 / MATH 5220 Applied Complex Analysis - Graduate Teaching Assistant, Fall 2023, Fall 2024
   - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
   - RPI CSCI 4960 Rensselaer Center for Open Source - Mentor, Fall 2018
   - RPI PHYS 2220 Quantum Physics II - Undergraduate Facillitator, Spring 2018
 
 ### Industry Experience:
-  - [The Aerospace Corporation](https://aerospace.org/) (El Segundo, CA) - MTS Graduate Intern V, Modeling and Simulation Computing Division, May 2024 - Present
+  - [The Aerospace Corporation](https://aerospace.org/) (El Segundo, CA) - MTS Graduate Intern V, Modeling and Simulation Computing Division, May 2024 - January 2025
     - Responsible for large scale, multi-objective evolutionary algorithm development and implementation and Pareto front recovery.  
 
 ### Other Projects:
