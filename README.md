@@ -75,7 +75,7 @@ My name is Mallory E. Gaspard, and I am a Postdoctoral Research Associate in the
   - Project founder and mentor for the [Automatic Door Control Project](https://rpiadc.com/login), an open source hardware and software project to design a mobile application for users with disabilities to remotely open nearby automatic doors. We were fortunate enough to be recognized by Red Hat as a finalist for the [Open Source Woman of the Year Award](https://www.redhat.com/en/blog/voting-now-open-2019-women-open-source-awards) in 2019. 
   
 ### Service and Outreach Activities (Highlights):
-  -  Reviewer for Automatica (journal). 
+  -  Reviewer for [Automatica](https://www.sciencedirect.com/journal/automatica) (journal). 
   -  SIAM Cornell Student Chapter President - August 2022 - August 2024
   - Graduate Student Mentor in the [Graduate Students Mentoring Undergraduates](https://experience.cornell.edu/opportunities/graduate-students-mentoring-undergraduates-gsmu) program, August 2020 - August 2022
   - Judge for the [Cornell Undergraduate Research Board Spring Symposium](https://www.cornellcurb.com/spring-symposium) (Invited), May 2021 
