@@ -21,8 +21,8 @@ My name is Mallory E. Gaspard, and I am a Postdoctoral Research Associate in the
 ### Publications:
   - Mallory E. Gaspard and Alexander Vladimirsky
       - Monotone Causality in Opportunistically Stochastic Shortest Path Problems
-      - [INFORMS](https://pubsonline.informs.org/doi/10.1287/moor.2023.0362)
-      - [arXiv](https://arxiv.org/abs/2310.14121)
+        -  [INFORMS](https://pubsonline.informs.org/doi/10.1287/moor.2023.0362)
+        - [arXiv](https://arxiv.org/abs/2310.14121)
   - Mallory E. Gaspard
       - Optimality of Motion Camouflage Under Escape Uncertainty
         - [arXiv](https://arxiv.org/abs/2409.09890)
