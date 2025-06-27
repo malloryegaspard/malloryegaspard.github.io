@@ -1,27 +1,28 @@
 ## Welcome!
 
-My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam). My primary research interests are in optimal control, mathematical modeling, and differential games. I was an [NDSEG Fellow](https://ndseg.sysplus.com/) (Fellowship tenure: 2020 - 2023), and I am advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky). **I am an incoming postdoc in the [Leonard Lab](https://naomi.princeton.edu/) at Princeton University (beginning July 2025).**
+My name is Mallory E. Gaspard, and I am a Postdoctoral Research Associate in the [Leonard Lab](https://naomi.princeton.edu/) at Princeton University. My primary research interests involve utilizing approaches from optimal control to analyze decision making in biological and technological systems. I received my Ph.D. in Applied Mathematics at Cornell University in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) where I was advised by [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky).
 
 ## About Me:
 ### Education: 
 
-- Ph.D. [Cornell University](https://www.cornell.edu), Center for Applied Mathematics: August 2019-Present
+- Ph.D. [Cornell University](https://www.cornell.edu), Center for Applied Mathematics: Conferred August 2025
   - Advised by: [Alexander Vladimirsky](https://math.cornell.edu/alexander-vladimirsky)
   - Minor Committee members: [Lionel Levine](http://pi.math.cornell.edu/~levine/) (Mathematics) and [David Bindel](https://www.cs.cornell.edu/~bindel/) (Computer Science)
+  - Thesis Title: Approaches to Optimal Control Under Uncertainty in Transportation and Biology
 - M.S. [Cornell University](https://www.cornell.edu), Applied Mathematics: Conferred May 2023 
 - B.S. Magna Cum Laude, [Rensselaer Polytechnic Institute](https://www.rpi.edu) (RPI), Mathematics and Applied Physics: Conferred December 2018
 
 ### Current Research Interests:
-- **Optimal Control, Differential Games, and Numerical Analysis**
-  - Working with [Alexander Vladimirsky](http://pi.math.cornell.edu/~vlad/) on projects involving randomly terminated optimal control, PDEs, differential games, and numerical analysis. I am primarily interested in projects that involve randomly terminated optimal control, path planning under uncertainty, and differential or mean-field games involving uncertainty. 
+- **Under reconstruction** 
 
 ### Preprints:  
   - None currently!
   
 ### Publications:
   - Mallory E. Gaspard and Alexander Vladimirsky
-      - [Monotone Causality in Opportunistically Stochastic Shortest Path Problems](https://arxiv.org/abs/2310.14121)
-      - Accepted for publication in INFORMS Mathematics of Operations Research. 
+      - Monotone Causality in Opportunistically Stochastic Shortest Path Problems
+      - [INFORMS](https://pubsonline.informs.org/doi/10.1287/moor.2023.0362)
+      - [arXiv](https://arxiv.org/abs/2310.14121)
   - Mallory E. Gaspard
       - Optimality of Motion Camouflage Under Escape Uncertainty
         - [arXiv](https://arxiv.org/abs/2409.09890)
@@ -60,7 +61,7 @@ My name is Mallory E. Gaspard, and I am a sixth-year Ph.D. Candidate at Cornell 
     - ["Electric Current Flow Through Two-Dimensional Networks"](https://ui.adsabs.harvard.edu/abs/2017APS..MAR.G1003G/abstract)*
 
 ### Teaching Experience:
-  - Cornell MATH 1106 Modeling with Calculus for the Life Sciences - Graduate Teaching Assistant, Spring 2025 (Current) 
+  - Cornell MATH 1106 Modeling with Calculus for the Life Sciences - Graduate Teaching Assistant, Spring 2025 
   - Cornell MATH 4220 / MATH 5220 Applied Complex Analysis - Graduate Teaching Assistant, Fall 2023, Fall 2024
   - RPI MATH 4600 Advanced Calculus - Graduate Teaching Assistant, Spring 2019
   - RPI CSCI 4960 Rensselaer Center for Open Source - Mentor, Fall 2018
