@@ -4,4 +4,4 @@
 
 Cheers!
 
-- Mallory
+Mallory
